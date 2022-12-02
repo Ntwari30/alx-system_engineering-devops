@@ -1,2 +1,2 @@
-#1/bi/bash
+#!/bin/bash
 ls
